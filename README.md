@@ -19,7 +19,7 @@
 ## اسکرین‌شات‌های داشبورد:
 در اینجا پیش‌نمایی از داشبورد در حال کار (از پوشه images):
 
-![نمای کلی داشبورد (KPIها و توزیع)](images/dashboard-overview.png)  
+![نمای کلی داشبورد (KPIها و توزیع)](https://github.com/arezoora3tkar/Emergency-Hospital-Dashboard/blob/main/images./overview_screenshot.png))  
 *(جایگزین با نام واقعی عکس، مثل dashboard-overview.png)*
 
 ![نمای ماهانه و فیلترشده (زمان انتظار)](images/monthly-view.png)  
@@ -44,8 +44,7 @@
 - **ویژوال‌ها آپدیت نمی‌شن؟** Refresh data رو بزن یا فیلترها رو پاک کن.
 - **Map یا جدول خطا می‌ده؟** داده‌های نژاد/دپارتمان رو چک کن (انگلیسی باشن).
 
-## نویسنده و تماس:
-- ساخته‌شده توسط **Arezou R.
+## نویسنده: **Arezou R.
 -
 ---
 
