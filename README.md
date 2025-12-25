@@ -20,13 +20,13 @@
 در اینجا پیش‌نمایی از داشبورد در حال کار (از پوشه images):
 
 ![نمای کلی داشبورد (KPIها و توزیع)](https://github.com/arezoora3tkar/Emergency-Hospital-Dashboard/blob/main/images./overview_screenshot.png))  
-*(جایگزین با نام واقعی عکس، مثل dashboard-overview.png)*
+
 
 ![نمای ماهانه و فیلترشده (زمان انتظار)](https://github.com/arezoora3tkar/Emergency-Hospital-Dashboard/blob/main/images./monthly_view_screenshot.png)  
-*(جایگزین با نام واقعی عکس، مثل monthly-view.png)*
+
 
 ![جدول بیماران و رضایت](https://github.com/arezoora3tkar/Emergency-Hospital-Dashboard/blob/main/images./patient_info_screenshot.png)  
-*(جایگزین با نام واقعی عکس، مثل patient-table.png)*
+
 
 ## چطور استفاده کنی:
 1. فایل **Hospital.pbix** رو دانلود و باز کن (Power BI Desktop 2024+).
